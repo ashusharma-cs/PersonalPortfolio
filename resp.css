@@ -1,0 +1,20 @@
+/* section-about */
+#about{
+    padding: 15px;
+}
+/* section-projects */
+#projects{
+    height: 100vh;
+    justify-content: center;
+
+}
+#projects .card-wrap{
+    flex-direction: column;
+    height: 90%;
+}
+.card-wrap .card{
+    width: 50%;
+    height: 90%;
+    margin: 2rem;
+    min-width: 2rem;
+}
